@@ -18,20 +18,25 @@
 It’s a Tripadvisory itinerary manager that allows the user to see there schedule flights
 And what activities they will be doing during their trip to their destination before heading back to their original location.
 
-## Task:
+
+## My Task and what I have dont within our group.
 
 - Use React for the front end.
-- Use GraphQL with a Node.js and Express.js server.
-- Use MongoDB and the Mongoose ODM for the database.
-- Use queries and mutations for retrieving, adding, updating, and deleting data.
-- Be deployed using Heroku (with data).
 - Have a polished UI.
 - Be responsive.
-- Be interactive (i.e., accept and respond to user input).
-- Include authentication (JWT).
-- Protect sensitive API key information on the server.
-- Have a clean repository that meets quality coding standards (file structure, naming     conventions, best practices for class and id naming conventions, indentation, quality comments, etc.).
-- Have a high-quality README (with unique name, description, technologies used,         screenshot, and link to deployed application).
+- Logo Design
+- Website Design/Structuring
+- Website Graphic
+- Front End Finalization
+- CSS and Bootstrap. 
+- Readme.MD
+- Presentation PDF.
+
+
+![2](https://user-images.githubusercontent.com/95839411/172073812-eca18191-c0fc-4d08-bad5-93af7f9b7e7b.jpg)
+![3](https://user-images.githubusercontent.com/95839411/172073818-5e9f02ed-54b0-4bc4-8281-b15123f8acf3.jpg)
+![5](https://user-images.githubusercontent.com/95839411/172073820-46a35c1d-d7e8-4ca7-9130-5e88ea94981d.jpg)
+![4](https://user-images.githubusercontent.com/95839411/172073817-947491fb-9250-449e-92a0-cbe55e8ae3e9.jpg)
 
 Specifications:
 CSS: Semantic UI
